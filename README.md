@@ -1,4 +1,4 @@
 Software Engineer, 22  
-Node | Spring Boot | UX
+NodeJS | Spring Boot | UX
 
 Learning by building and iterating on backend systems.
